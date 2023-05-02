@@ -3,7 +3,7 @@ vDictSleeper = {
     "QBHOUC.J.Stroud":"",
     "QBINDAnthonyRichardson":"",
     "QBTENWillLevis":"",
-    "QBMINHendonHooker":"",
+    "QBDETHendonHooker":"",
     "QBLARStetsonBennett":"",
     "QBLACMaxDuggan":"",
     "QBPHITannerMcKee":"",
